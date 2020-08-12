@@ -305,7 +305,7 @@ Moreover, we present an easier approach to enable/disable the feed types, for in
 - Type: `boolean`
 - Default: `true`
 
-Whether to automatically extract summary from source markdowns. You can write summary manually by [front matter](./front-matter.md#summary). Summary is not only for displaying but also page meta description. 
+Whether to automatically extract summary from source markdowns. You can summary manually by [front matter](./front-matter.md#summary). Summary is not only for displaying but also page meta description. 
 
 
 ## summaryLength
@@ -352,7 +352,7 @@ You can set this option to `SimplePagination` to enable another out-of-box
 
 <img src="../assets/simple-pagination.png" width="250" height="" style=""/>
 
-You can also wirte a custom pagination component and register it as a global component. then pass its
+You can also write a custom pagination component and register it as a global component. then pass its
 name to this option.
 
 ## smoothScroll
